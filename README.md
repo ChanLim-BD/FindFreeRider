@@ -1,5 +1,5 @@
-# PDAproj
-큐시즘 기업 프로젝트 6조
+# 큐시즘 기업 프로젝트
+6조: 강석훈, 김세한, 박근영, 이지수, 임찬, 임학수
 
 # APK
 Front-build/app-release_v0.92.apk 를 다운받아 설치하시면 됩니다.
@@ -20,3 +20,8 @@ Front-build/app-release_v0.92.apk 를 다운받아 설치하시면 됩니다.
 4. request로 txt파일을 받고, response로 html 포맷 json String을 반환합니다.
 5. ./Back-end/dataAnalysis.py 모듈에서 txt파일을 분석합니다.
 6. txt파일은 ./Back-end/에 저장됩니다.
+
+# 데이터 분석
+1. Python을 사용하였습니다.
+2. pandas, numpy 라이브러리와 정규표현식을 지원하는 re 모듈을 사용하였습니다.
+3. 채팅 빈도, 보낸 채팅 메시지의 평균 길이, 사과 빈도, 파일 공유 빈도를 바탕으로 각 팀원의 기여도를 평가합니다.
