@@ -15,6 +15,6 @@ Front-build/app-release_v0.92.apk 를 다운받아 설치하시면 됩니다.
 1. 서버는 Django를, DB는 SQLite를 사용하였습니다.
 2. AWS 클라우드 서버를 이용해 배포합니다.
 3. python 3.8.5 버전을 기준으로 합니다.
-4. request로 txt파일을 받고, response에서 html을 활용한 json String을 반환합니다.
+4. request로 txt파일을 받고, response로 html 포맷 json String을 반환합니다.
 5. ./Back-end/dataAnalysis.py 모듈에서 txt파일을 분석합니다.
 6. txt파일은 ./Back-end/에 저장됩니다.
