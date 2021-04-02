@@ -10,3 +10,5 @@ Front-build/app-release_v0.92.apk 를 다운받아 설치하시면 됩니다.
 5. 안드로이드 OS version 11 에서 테스트 되었습니다.
 6. 외부 저장소 열람 권한이 필요합니다. 권한을 따로 요청하지 않는다면 직접 권한을 허용해주세요.
 7. 카카오톡 파일을 upload 할 때, 서버로 텍스트 데이터를 보내고 Processing 된 값을 받아옵니다. 인터넷이 연결되어 있어야합니다.
+
+<img src="/Front-build/ezgif.com-gif-maker.gif" width="30%" ></img><br/>
