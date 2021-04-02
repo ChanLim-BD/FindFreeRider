@@ -11,7 +11,7 @@ Front-build/app-release_v0.92.apk 를 다운받아 설치하시면 됩니다.
 6. 외부 저장소 열람 권한이 필요합니다. 권한을 따로 요청하지 않는다면 직접 권한을 허용해주세요.
 7. 카카오톡 파일을 upload 할 때, 서버로 텍스트 데이터를 보내고 Processing 된 값을 받아옵니다. 인터넷이 연결되어 있어야합니다.
 
-<img src="/Front-build/ezgif.com-gif-maker.gif" width="30%" ></img><br/>
+<img src="https://user-images.githubusercontent.com/63851250/113415483-442f7500-93fa-11eb-9278-6af6dbcf6d57.gif" width="30%"><br/>
 
 # Server
 1. 서버는 Django를, DB는 SQLite를 사용하였습니다.
